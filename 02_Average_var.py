@@ -1,3 +1,4 @@
+# AVERAGE OF TWO NUMBERS
 print("This programme calculates the Average of two numbers\n")
 number_1=10
 number_2=12
