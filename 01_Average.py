@@ -1,6 +1,12 @@
 #This programme calculates Average of Two Numbers
 # AVERAGE
-print("The Average of Two Numbers 4 and 8 is:\n",(4+8)/2)
-# =============================================================================================================
+# try:
+#     a = 4;
+#     b = 8;
+#     avg = (a+b)/2
+#     print(avg)
+# except Exception as e:
+#     err = str(e)
+#     print("error :- ",err) 
 
-
+print("VJ\n")
